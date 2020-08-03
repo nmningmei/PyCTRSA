@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2383ab4-1816-4649-acb6-030e0919c134" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/test/Tutorial_for_PyCTRSA_colab.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/test/Tutorial_for_PyCTRSA_colab.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,23 +33,14 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="465">
-                <caret line="31" selection-start-line="31" selection-end-line="31" />
+              <first_editor relative-caret-position="353">
+                <caret line="59" column="7" selection-start-line="59" selection-start-column="7" selection-end-line="59" selection-end-column="7" />
               </first_editor>
               <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test/Tutorial_for_PyCTRSA_colab.ipynb">
-          <provider selected="true" editor-type-id="ipnb-editor">
-            <state>
-              <selected id="0" />
             </state>
           </provider>
         </entry>
@@ -156,10 +148,11 @@
         <option value="$PROJECT_DIR$/pyctrsa/plotting/tbytsimilarities.py" />
         <option value="$PROJECT_DIR$/setup.py" />
         <option value="$PROJECT_DIR$/test/Tutorial_for_PyCTRSA_colab.ipynb" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="34" />
     <option name="y" value="30" />
     <option name="width" value="1245" />
@@ -171,64 +164,23 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="PyCTRSA-master_1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PyCTRSA-master_1" type="462c0819:PsiDirectoryNode" />
+              <item name="PyCTRSA-master-3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PyCTRSA-master-3" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="PyCTRSA-master_1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PyCTRSA-master_1" type="462c0819:PsiDirectoryNode" />
-              <item name="pyctrsa" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PyCTRSA-master_1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PyCTRSA-master_1" type="462c0819:PsiDirectoryNode" />
-              <item name="pyctrsa" type="462c0819:PsiDirectoryNode" />
-              <item name="ctrdm" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PyCTRSA-master_1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PyCTRSA-master_1" type="462c0819:PsiDirectoryNode" />
-              <item name="pyctrsa" type="462c0819:PsiDirectoryNode" />
-              <item name="ctsimilarity" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PyCTRSA-master_1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PyCTRSA-master_1" type="462c0819:PsiDirectoryNode" />
-              <item name="pyctrsa" type="462c0819:PsiDirectoryNode" />
-              <item name="plotting" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PyCTRSA-master_1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PyCTRSA-master_1" type="462c0819:PsiDirectoryNode" />
-              <item name="pyctrsa" type="462c0819:PsiDirectoryNode" />
-              <item name="similarity" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PyCTRSA-master_1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PyCTRSA-master_1" type="462c0819:PsiDirectoryNode" />
-              <item name="pyctrsa" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PyCTRSA-master_1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PyCTRSA-master_1" type="462c0819:PsiDirectoryNode" />
+              <item name="PyCTRSA-master-3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PyCTRSA-master-3" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PyCTRSA-master_1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PyCTRSA-master_1" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="test_results" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -384,17 +336,18 @@
       <workItem from="1596212977007" duration="9561000" />
       <workItem from="1596341922709" duration="264000" />
       <workItem from="1596342583405" duration="1372000" />
+      <workItem from="1596434134849" duration="355000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25851000" />
+    <option name="totallyTimeSpent" value="26206000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="34" y="30" width="1245" height="761" extended-state="1" />
+    <frame x="34" y="30" width="1245" height="761" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27098918" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27514547" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -553,20 +506,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="465">
-            <caret line="31" selection-start-line="31" selection-end-line="31" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/Tutorial_for_PyCTRSA_colab.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="353">
+            <caret line="59" column="7" selection-start-line="59" selection-start-column="7" selection-end-line="59" selection-end-column="7" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

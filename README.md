@@ -52,6 +52,14 @@ In PyCTRSA, you can not only calculate the cross-temporal similarities based on 
 | - | --- | ---- |
 | Learn here! | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ZitongLu1996/PyCTRSA/blob/master/test/Tutorial_for_PyCTRSA_colab.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/ZitongLu1996/PyCTRSA/blob/master/test/Tutorial_for_PyCTRSA.ipynb) |
 
+## Efficiency of using PyCTRSA
+
+Here, we use a tutorial to compare the traditional classification-based decoding and novel cross-temporal RSA-based decoding below:
+
+|   | Run the Tutorial | View the Tutorial |
+| - | --- | ---- |
+| Learn here! | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ZitongLu1996/PyCTRSA/blob/master/test/Decoding_Classification_VS_CTRSA.ipynb) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/ZitongLu1996/PyCTRSA/blob/master/test/Decoding_Classification_VS_CTRSA.ipynb) |
+
 ## About PyCTRSA
 
 This work should be affilliated with **[NeuroRA](https:/zitonglu1996.github.io/NeuroRA/)**, but it is an independent part.
